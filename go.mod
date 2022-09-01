@@ -1,4 +1,4 @@
-module github.com/frostcs7/simple-go-service
+module github.com/sandeepjindal/simple-go-service
 
 go 1.18
 
